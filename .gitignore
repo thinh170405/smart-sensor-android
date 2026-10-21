@@ -1,0 +1,17 @@
+.gradle/
+.idea/
+.kotlin/
+.codex*/
+.chart-data-*/
+**/build/
+*.iml
+local.properties
+*.log
+/presentation.pdf
+/slides/build/
+/slides/output/*
+!/slides/output/Cam_Bien_Trong_Android1_So_Do_Luong_5_Buoc_20261021.pptx
+/docs/output/
+/docs/KICH_BAN_THUYET_TRINH.md
+/docs/LY_THUYET_VA_BAO_CAO.md
+/docs/assets/
